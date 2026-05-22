@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: php-quiz-app
+    env: php
+    buildCommand: echo "No build step"
+    startCommand: php -S 0.0.0.0:$PORT
+    envVars:
+      - key: PHP_VERSION
+        value: "8.2"
