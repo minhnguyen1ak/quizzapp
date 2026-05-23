@@ -199,7 +199,7 @@ ORDER BY results.id DESC
         <div class="col-md-3">
 
             <a
-                href="http://localhost/quizz_api/add_category.php"
+                href="https://quizzapp-wzzz.onrender.com/add_category.php"
             >
 
                 <div
@@ -225,7 +225,7 @@ ORDER BY results.id DESC
         <div class="col-md-3">
 
             <a
-                href="http://localhost/quizz_api/create_questions.php"
+                href="https://quizzapp-wzzz.onrender.com/create_questions.php"
             >
 
                 <div
